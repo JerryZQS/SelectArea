@@ -6,8 +6,8 @@ A view to select two adjacent rectangular area, return 6 points.
 
 The order of the points is as follows:
 
-0------1
-|Yellow|
-3------2
-| Blue |
-4------5
+0------1   
+|Yellow|   
+3------2   
+| Blue |   
+4------5   
